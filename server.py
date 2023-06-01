@@ -1,7 +1,6 @@
 import socket
 import threading
 from message import ChatMessage
-from time import sleep
 
 
 class ChatServer:
